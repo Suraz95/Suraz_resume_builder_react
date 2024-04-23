@@ -10,9 +10,9 @@
   height: fit-content;
   margin: 0 auto;
 }
-body{
-  background-color: #fff;
-}
+/* body{
+  background-color: peachpuff;
+} */
 .header {
   display: flex;
   gap: 10px;
